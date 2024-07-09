@@ -1,0 +1,16 @@
+GossipCopOriginal：
+ - (Finished!!) 
+ Best scores: 
+Acc: 89.14683%
+F1: 91.41746%
+Pre: 89.11624%
+Recall: 89.33311%
+
+
+GossipCopLLMGen：
+ - (Finished!!) 
+ Best scores: 
+Acc: 87.31668%
+F1: 90.33753%
+Pre: 89.03660%
+Recall: 88.22311%

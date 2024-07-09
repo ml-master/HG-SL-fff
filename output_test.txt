@@ -1,0 +1,2555 @@
+news cascades size:5464 
+train size:1092 
+test and valid size:4372 
+
+[ Epoch 0 ]
+  - (Training) loss:  106.39851 %, elapse: 0.190 min
+
+[ Epoch 1 ]
+  - (Training) loss:  42.74953 %, elapse: 0.148 min
+
+[ Epoch 2 ]
+  - (Training) loss:  21.72415 %, elapse: 0.146 min
+
+[ Epoch 3 ]
+  - (Training) loss:  15.06007 %, elapse: 0.145 min
+
+[ Epoch 4 ]
+  - (Training) loss:  9.75709 %, elapse: 0.148 min
+
+[ Epoch 5 ]
+  - (Training) loss:  6.73523 %, elapse: 0.148 min
+
+[ Epoch 6 ]
+  - (Training) loss:  6.07936 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.88645%
+F1: 96.72589%
+Pre: 98.73016%
+Recall: 94.99347%
+  - (Test) 
+Acc: 97.20335%
+F1: 97.11050%
+Pre: 98.19954%
+Recall: 96.10343%
+Best Test Accuracy:97.20335% at Epoch:6
+Save best model!!!
+
+[ Epoch 7 ]
+  - (Training) loss:  5.42596 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 97.43590%
+F1: 97.32568%
+Pre: 99.31624%
+Recall: 95.89257%
+  - (Test) 
+Acc: 97.69995%
+F1: 97.62819%
+Pre: 98.61722%
+Recall: 96.75831%
+Best Test Accuracy:97.69995% at Epoch:7
+Save best model!!!
+
+[ Epoch 8 ]
+  - (Training) loss:  4.25588 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 97.43590%
+F1: 97.29521%
+Pre: 98.29504%
+Recall: 96.62517%
+  - (Test) 
+Acc: 97.72608%
+F1: 97.64755%
+Pre: 98.37680%
+Recall: 97.06314%
+Best Test Accuracy:97.72608% at Epoch:8
+Save best model!!!
+
+[ Epoch 9 ]
+  - (Training) loss:  4.14444 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 97.06960%
+F1: 96.94358%
+Pre: 98.78344%
+Recall: 95.37607%
+  - (Test) 
+Acc: 97.33403%
+F1: 97.25239%
+Pre: 98.85641%
+Recall: 95.88947%
+
+[ Epoch 10 ]
+  - (Training) loss:  3.69755 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 97.80220%
+F1: 97.71670%
+Pre: 99.31624%
+Recall: 96.81322%
+  - (Test) 
+Acc: 97.36017%
+F1: 97.27093%
+Pre: 98.27009%
+Recall: 96.56287%
+
+[ Epoch 11 ]
+  - (Training) loss:  4.39989 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.21632%
+Pre: 98.61333%
+Recall: 94.54641%
+  - (Test) 
+Acc: 97.36017%
+F1: 97.27854%
+Pre: 98.54028%
+Recall: 96.26187%
+
+[ Epoch 12 ]
+  - (Training) loss:  3.22002 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 97.43590%
+F1: 97.32516%
+Pre: 99.31624%
+Recall: 95.72083%
+  - (Test) 
+Acc: 97.69995%
+F1: 97.61409%
+Pre: 98.53763%
+Recall: 96.86769%
+
+[ Epoch 13 ]
+  - (Training) loss:  2.56013 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.50549%
+F1: 94.33261%
+Pre: 98.75230%
+Recall: 90.83492%
+  - (Test) 
+Acc: 95.76581%
+F1: 95.62722%
+Pre: 98.48885%
+Recall: 92.98302%
+
+[ Epoch 14 ]
+  - (Training) loss:  7.62254 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 98.53480%
+F1: 98.48257%
+Pre: 99.60928%
+Recall: 97.82778%
+  - (Test) 
+Acc: 97.09880%
+F1: 97.00151%
+Pre: 97.91019%
+Recall: 96.35037%
+
+[ Epoch 15 ]
+  - (Training) loss:  2.65528 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 97.25275%
+F1: 97.15234%
+Pre: 98.93053%
+Recall: 95.84088%
+  - (Test) 
+Acc: 96.75902%
+F1: 96.64865%
+Pre: 97.97041%
+Recall: 95.57521%
+
+[ Epoch 16 ]
+  - (Training) loss:  2.78446 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 97.80220%
+F1: 97.71680%
+Pre: 98.22726%
+Recall: 97.80863%
+  - (Test) 
+Acc: 96.62833%
+F1: 96.50254%
+Pre: 96.63331%
+Recall: 96.68905%
+
+[ Epoch 17 ]
+  - (Training) loss:  2.33081 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.70330%
+F1: 96.59718%
+Pre: 98.27083%
+Recall: 95.62692%
+  - (Test) 
+Acc: 96.28855%
+F1: 96.16127%
+Pre: 97.81290%
+Recall: 94.74578%
+
+[ Epoch 18 ]
+  - (Training) loss:  1.90292 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 94.32234%
+F1: 94.15103%
+Pre: 99.51160%
+Recall: 89.48055%
+  - (Test) 
+Acc: 95.42603%
+F1: 95.28233%
+Pre: 98.73289%
+Recall: 92.08523%
+
+[ Epoch 19 ]
+  - (Training) loss:  2.71190 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 97.43590%
+F1: 97.33005%
+Pre: 99.25577%
+Recall: 95.85456%
+  - (Test) 
+Acc: 97.02039%
+F1: 96.92285%
+Pre: 98.34739%
+Recall: 95.81649%
+
+[ Epoch 20 ]
+  - (Training) loss:  3.66797 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.90726%
+Pre: 99.25613%
+Recall: 91.54049%
+  - (Test) 
+Acc: 95.13853%
+F1: 94.99491%
+Pre: 97.92521%
+Recall: 92.39923%
+
+[ Epoch 21 ]
+  - (Training) loss:  4.63637 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.21147%
+Pre: 99.16685%
+Recall: 93.71845%
+  - (Test) 
+Acc: 96.34083%
+F1: 96.22172%
+Pre: 98.54723%
+Recall: 94.12662%
+
+[ Epoch 22 ]
+  - (Training) loss:  3.34976 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 98.16850%
+F1: 98.11065%
+Pre: 99.30810%
+Recall: 97.31416%
+  - (Test) 
+Acc: 97.54313%
+F1: 97.45172%
+Pre: 98.20068%
+Recall: 97.04674%
+
+[ Epoch 23 ]
+  - (Training) loss:  4.58362 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.70330%
+F1: 96.54300%
+Pre: 95.35086%
+Recall: 98.37236%
+  - (Test) 
+Acc: 96.26242%
+F1: 96.11754%
+Pre: 94.91259%
+Recall: 97.77153%
+
+[ Epoch 24 ]
+  - (Training) loss:  4.80298 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.00232%
+Pre: 98.07583%
+Recall: 94.58481%
+  - (Test) 
+Acc: 96.34083%
+F1: 96.22516%
+Pre: 96.82153%
+Recall: 95.99455%
+
+[ Epoch 25 ]
+  - (Training) loss:  5.47441 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 97.43590%
+F1: 97.31002%
+Pre: 96.72727%
+Recall: 98.45689%
+  - (Test) 
+Acc: 96.39310%
+F1: 96.26773%
+Pre: 95.46559%
+Recall: 97.47190%
+
+[ Epoch 26 ]
+  - (Training) loss:  3.50836 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.64651%
+Pre: 98.36158%
+Recall: 93.55971%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.91066%
+Pre: 97.28710%
+Recall: 94.95533%
+
+[ Epoch 27 ]
+  - (Training) loss:  1.34374 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.80211%
+Pre: 95.37370%
+Recall: 97.13827%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.92587%
+Pre: 94.86684%
+Recall: 97.56572%
+
+[ Epoch 28 ]
+  - (Training) loss:  6.45437 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.70330%
+F1: 96.55997%
+Pre: 95.97603%
+Recall: 97.85459%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.72165%
+Pre: 94.29111%
+Recall: 97.68673%
+
+[ Epoch 29 ]
+  - (Training) loss:  2.90936 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.50549%
+F1: 94.23232%
+Pre: 91.89316%
+Recall: 98.37236%
+  - (Test) 
+Acc: 93.23053%
+F1: 92.98780%
+Pre: 89.25428%
+Recall: 98.37334%
+
+[ Epoch 30 ]
+  - (Training) loss:  3.23112 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.52015%
+F1: 96.38484%
+Pre: 96.94216%
+Recall: 96.33216%
+  - (Test) 
+Acc: 96.34083%
+F1: 96.21231%
+Pre: 96.02408%
+Recall: 96.67435%
+
+[ Epoch 31 ]
+  - (Training) loss:  4.00394 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.21152%
+Pre: 98.44242%
+Recall: 94.57083%
+  - (Test) 
+Acc: 96.39310%
+F1: 96.27945%
+Pre: 97.36466%
+Recall: 95.46833%
+
+[ Epoch 32 ]
+  - (Training) loss:  2.42273 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.39010%
+Pre: 97.46832%
+Recall: 93.54362%
+  - (Test) 
+Acc: 96.23628%
+F1: 96.10214%
+Pre: 96.93783%
+Recall: 95.57208%
+
+[ Epoch 33 ]
+  - (Training) loss:  2.66229 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.04945%
+Pre: 97.60485%
+Recall: 93.03192%
+  - (Test) 
+Acc: 95.84422%
+F1: 95.70503%
+Pre: 97.32138%
+Recall: 94.39975%
+
+[ Epoch 34 ]
+  - (Training) loss:  2.16801 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.58462%
+Pre: 95.92490%
+Recall: 95.71482%
+  - (Test) 
+Acc: 96.44537%
+F1: 96.32097%
+Pre: 95.99819%
+Recall: 97.04583%
+
+[ Epoch 35 ]
+  - (Training) loss:  1.72822 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.52015%
+F1: 96.36249%
+Pre: 98.15307%
+Recall: 95.06944%
+  - (Test) 
+Acc: 96.47151%
+F1: 96.35185%
+Pre: 97.09913%
+Recall: 95.83598%
+
+[ Epoch 36 ]
+  - (Training) loss:  1.44135 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.52015%
+F1: 96.35633%
+Pre: 97.94269%
+Recall: 95.06944%
+  - (Test) 
+Acc: 96.60220%
+F1: 96.48394%
+Pre: 97.06724%
+Recall: 96.24536%
+
+[ Epoch 37 ]
+  - (Training) loss:  1.51814 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.02443%
+Pre: 99.24298%
+Recall: 93.43660%
+  - (Test) 
+Acc: 96.54992%
+F1: 96.42895%
+Pre: 97.44010%
+Recall: 95.75076%
+
+[ Epoch 38 ]
+  - (Training) loss:  1.29141 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.50549%
+F1: 94.32660%
+Pre: 99.18287%
+Recall: 90.09843%
+  - (Test) 
+Acc: 95.84422%
+F1: 95.71550%
+Pre: 98.38439%
+Recall: 93.30348%
+
+[ Epoch 39 ]
+  - (Training) loss:  1.48752 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.83605%
+Pre: 93.38809%
+Recall: 97.26187%
+  - (Test) 
+Acc: 95.37376%
+F1: 95.20418%
+Pre: 93.28934%
+Recall: 97.82288%
+
+[ Epoch 40 ]
+  - (Training) loss:  5.96504 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.68864%
+F1: 94.46573%
+Pre: 93.43388%
+Recall: 96.66765%
+  - (Test) 
+Acc: 93.43962%
+F1: 93.22381%
+Pre: 90.99491%
+Recall: 96.49973%
+
+[ Epoch 41 ]
+  - (Training) loss:  2.48709 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.00055%
+Pre: 97.31992%
+Recall: 95.32315%
+  - (Test) 
+Acc: 96.36696%
+F1: 96.23481%
+Pre: 95.99086%
+Recall: 96.88641%
+
+[ Epoch 42 ]
+  - (Training) loss:  1.92657 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.60418%
+Pre: 95.34306%
+Recall: 96.69846%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.84847%
+Pre: 94.79213%
+Recall: 97.36987%
+
+[ Epoch 43 ]
+  - (Training) loss:  2.05836 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.85770%
+Pre: 97.41780%
+Recall: 92.78853%
+  - (Test) 
+Acc: 95.81809%
+F1: 95.68180%
+Pre: 96.93805%
+Recall: 94.76647%
+
+[ Epoch 44 ]
+  - (Training) loss:  1.58214 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.83724%
+Pre: 95.48671%
+Recall: 96.72000%
+  - (Test) 
+Acc: 95.97491%
+F1: 95.81315%
+Pre: 94.44460%
+Recall: 97.83596%
+
+[ Epoch 45 ]
+  - (Training) loss:  2.34085 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 93.04029%
+F1: 92.77351%
+Pre: 89.80434%
+Recall: 97.79467%
+  - (Test) 
+Acc: 93.49190%
+F1: 93.25221%
+Pre: 90.55300%
+Recall: 97.28613%
+
+[ Epoch 46 ]
+  - (Training) loss:  4.25694 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.06670%
+Pre: 98.85727%
+Recall: 94.10267%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.86773%
+Pre: 96.70716%
+Recall: 95.31972%
+
+[ Epoch 47 ]
+  - (Training) loss:  2.64381 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.02989%
+Pre: 98.71602%
+Recall: 93.91787%
+  - (Test) 
+Acc: 96.54992%
+F1: 96.44132%
+Pre: 97.99157%
+Recall: 95.06393%
+
+[ Epoch 48 ]
+  - (Training) loss:  1.96147 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.32234%
+F1: 94.13553%
+Pre: 99.41392%
+Recall: 89.63583%
+  - (Test) 
+Acc: 95.34762%
+F1: 95.20745%
+Pre: 98.66515%
+Recall: 92.07012%
+
+[ Epoch 49 ]
+  - (Training) loss:  1.36057 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.87236%
+Pre: 96.31649%
+Recall: 94.19696%
+  - (Test) 
+Acc: 95.81809%
+F1: 95.68220%
+Pre: 96.28138%
+Recall: 95.40362%
+
+[ Epoch 50 ]
+  - (Training) loss:  1.24651 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.46327%
+Pre: 97.86131%
+Recall: 93.59227%
+  - (Test) 
+Acc: 95.53058%
+F1: 95.37664%
+Pre: 96.88178%
+Recall: 94.03728%
+
+[ Epoch 51 ]
+  - (Training) loss:  2.49055 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.02989%
+Pre: 98.37126%
+Recall: 94.28417%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.94975%
+Pre: 96.88949%
+Recall: 95.27624%
+
+[ Epoch 52 ]
+  - (Training) loss:  1.01267 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.03025%
+Pre: 98.34971%
+Recall: 94.28417%
+  - (Test) 
+Acc: 95.76581%
+F1: 95.61238%
+Pre: 96.85109%
+Recall: 94.60313%
+
+[ Epoch 53 ]
+  - (Training) loss:  1.43477 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.26698%
+Pre: 96.26625%
+Recall: 95.01409%
+  - (Test) 
+Acc: 95.66127%
+F1: 95.49868%
+Pre: 95.41956%
+Recall: 95.94953%
+
+[ Epoch 54 ]
+  - (Training) loss:  1.75150 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.42413%
+Pre: 96.64038%
+Recall: 94.92956%
+  - (Test) 
+Acc: 95.94877%
+F1: 95.80052%
+Pre: 95.43383%
+Recall: 96.59219%
+
+[ Epoch 55 ]
+  - (Training) loss:  1.01003 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.65778%
+Pre: 98.04566%
+Recall: 93.95857%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.71820%
+Pre: 96.05089%
+Recall: 95.76459%
+
+[ Epoch 56 ]
+  - (Training) loss:  1.05807 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.05309%
+Pre: 96.65953%
+Recall: 94.23766%
+  - (Test) 
+Acc: 95.79195%
+F1: 95.64021%
+Pre: 95.71270%
+Recall: 95.96806%
+
+[ Epoch 57 ]
+  - (Training) loss:  1.87708 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.32234%
+F1: 94.14216%
+Pre: 98.61250%
+Recall: 90.30008%
+  - (Test) 
+Acc: 95.50444%
+F1: 95.35947%
+Pre: 97.85167%
+Recall: 93.08818%
+
+[ Epoch 58 ]
+  - (Training) loss:  2.54648 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82332%
+Pre: 98.61250%
+Recall: 93.43706%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.94497%
+Pre: 97.66817%
+Recall: 94.46770%
+
+[ Epoch 59 ]
+  - (Training) loss:  1.49320 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.83338%
+Pre: 98.00809%
+Recall: 94.17254%
+  - (Test) 
+Acc: 96.05332%
+F1: 95.93329%
+Pre: 97.18977%
+Recall: 94.94902%
+
+[ Epoch 60 ]
+  - (Training) loss:  1.68251 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.83546%
+Pre: 97.83977%
+Recall: 94.21851%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.76643%
+Pre: 96.69650%
+Recall: 95.07801%
+
+[ Epoch 61 ]
+  - (Training) loss:  1.39951 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.62527%
+Pre: 96.92320%
+Recall: 94.90801%
+  - (Test) 
+Acc: 96.05332%
+F1: 95.90765%
+Pre: 95.77345%
+Recall: 96.36176%
+
+[ Epoch 62 ]
+  - (Training) loss:  1.43903 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.81931%
+Pre: 95.74957%
+Recall: 96.71260%
+  - (Test) 
+Acc: 95.50444%
+F1: 95.33693%
+Pre: 94.35863%
+Recall: 96.79822%
+
+[ Epoch 63 ]
+  - (Training) loss:  2.99911 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.89074%
+Pre: 96.80580%
+Recall: 93.46148%
+  - (Test) 
+Acc: 95.66127%
+F1: 95.50908%
+Pre: 95.97603%
+Recall: 95.30253%
+
+[ Epoch 64 ]
+  - (Training) loss:  2.16248 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.02433%
+Pre: 99.02320%
+Recall: 93.54870%
+  - (Test) 
+Acc: 95.89650%
+F1: 95.74312%
+Pre: 97.52139%
+Recall: 94.11727%
+
+[ Epoch 65 ]
+  - (Training) loss:  0.93855 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.80600%
+Pre: 97.26354%
+Recall: 94.90801%
+  - (Test) 
+Acc: 96.18400%
+F1: 96.04508%
+Pre: 95.98789%
+Recall: 96.35778%
+
+[ Epoch 66 ]
+  - (Training) loss:  1.15213 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.01183%
+Pre: 96.64931%
+Recall: 95.93856%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.85999%
+Pre: 95.02697%
+Recall: 97.15995%
+
+[ Epoch 67 ]
+  - (Training) loss:  1.04560 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.27364%
+Pre: 96.29495%
+Recall: 95.03564%
+  - (Test) 
+Acc: 96.21014%
+F1: 96.07474%
+Pre: 95.79202%
+Recall: 96.72857%
+
+[ Epoch 68 ]
+  - (Training) loss:  2.73272 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.84296%
+Pre: 98.06040%
+Recall: 94.21851%
+  - (Test) 
+Acc: 96.15787%
+F1: 96.01516%
+Pre: 96.78849%
+Recall: 95.44831%
+
+[ Epoch 69 ]
+  - (Training) loss:  1.74924 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82632%
+Pre: 98.06040%
+Recall: 94.21851%
+  - (Test) 
+Acc: 96.13173%
+F1: 95.98850%
+Pre: 96.69656%
+Recall: 95.50295%
+
+[ Epoch 70 ]
+  - (Training) loss:  1.95137 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.25790%
+Pre: 96.55929%
+Recall: 94.56326%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.58849%
+Pre: 95.91221%
+Recall: 95.58820%
+
+[ Epoch 71 ]
+  - (Training) loss:  4.19107 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.87179%
+F1: 94.69851%
+Pre: 97.75780%
+Recall: 92.07747%
+  - (Test) 
+Acc: 95.16466%
+F1: 94.99753%
+Pre: 96.96962%
+Recall: 93.38563%
+
+[ Epoch 72 ]
+  - (Training) loss:  1.15411 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.06562%
+Pre: 96.84493%
+Recall: 93.82778%
+  - (Test) 
+Acc: 95.79195%
+F1: 95.64651%
+Pre: 96.15934%
+Recall: 95.40895%
+
+[ Epoch 73 ]
+  - (Training) loss:  1.41794 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.25850%
+Pre: 96.55801%
+Recall: 94.62337%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.72655%
+Pre: 95.79935%
+Recall: 96.00576%
+
+[ Epoch 74 ]
+  - (Training) loss:  1.02039 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.44819%
+Pre: 97.69963%
+Recall: 93.82778%
+  - (Test) 
+Acc: 95.81809%
+F1: 95.66949%
+Pre: 96.45501%
+Recall: 95.12823%
+
+[ Epoch 75 ]
+  - (Training) loss:  1.06503 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23712%
+Pre: 95.51492%
+Recall: 95.71959%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.85026%
+Pre: 95.39497%
+Recall: 96.76594%
+
+[ Epoch 76 ]
+  - (Training) loss:  1.04778 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23712%
+Pre: 95.51492%
+Recall: 95.71959%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.87973%
+Pre: 95.34290%
+Recall: 96.88791%
+
+[ Epoch 77 ]
+  - (Training) loss:  1.27368 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.04939%
+Pre: 95.20646%
+Recall: 95.71959%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.84854%
+Pre: 95.45395%
+Recall: 96.70160%
+
+[ Epoch 78 ]
+  - (Training) loss:  1.78162 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.02171%
+Pre: 96.86333%
+Recall: 95.70544%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.93690%
+Pre: 96.29963%
+Recall: 95.82506%
+
+[ Epoch 79 ]
+  - (Training) loss:  1.59169 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43865%
+Pre: 96.47929%
+Recall: 94.84234%
+  - (Test) 
+Acc: 95.47831%
+F1: 95.31625%
+Pre: 95.56522%
+Recall: 95.42005%
+
+[ Epoch 80 ]
+  - (Training) loss:  1.40825 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.03588%
+Pre: 98.84125%
+Recall: 93.91500%
+  - (Test) 
+Acc: 95.76581%
+F1: 95.61000%
+Pre: 96.77867%
+Recall: 94.79334%
+
+[ Epoch 81 ]
+  - (Training) loss:  0.94808 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23624%
+Pre: 95.50769%
+Recall: 95.65948%
+  - (Test) 
+Acc: 95.45217%
+F1: 95.28086%
+Pre: 94.54877%
+Recall: 96.53979%
+
+[ Epoch 82 ]
+  - (Training) loss:  1.02979 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23090%
+Pre: 95.80849%
+Recall: 95.20864%
+  - (Test) 
+Acc: 95.42603%
+F1: 95.26205%
+Pre: 94.77887%
+Recall: 96.21051%
+
+[ Epoch 83 ]
+  - (Training) loss:  0.97261 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.04456%
+Pre: 95.45427%
+Recall: 95.20864%
+  - (Test) 
+Acc: 95.42603%
+F1: 95.26148%
+Pre: 94.74145%
+Recall: 96.25697%
+
+[ Epoch 84 ]
+  - (Training) loss:  1.06451 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.41414%
+Pre: 96.85214%
+Recall: 94.45162%
+  - (Test) 
+Acc: 95.45217%
+F1: 95.28187%
+Pre: 95.64711%
+Recall: 95.26132%
+
+[ Epoch 85 ]
+  - (Training) loss:  1.47875 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.61122%
+Pre: 97.15278%
+Recall: 94.49232%
+  - (Test) 
+Acc: 95.50444%
+F1: 95.33966%
+Pre: 95.86642%
+Recall: 95.13641%
+
+[ Epoch 86 ]
+  - (Training) loss:  0.97032 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.40721%
+Pre: 96.76899%
+Recall: 94.42720%
+  - (Test) 
+Acc: 95.53058%
+F1: 95.37071%
+Pre: 96.28300%
+Recall: 94.83480%
+
+[ Epoch 87 ]
+  - (Training) loss:  0.70926 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.84873%
+Pre: 95.65138%
+Recall: 94.42720%
+  - (Test) 
+Acc: 95.50444%
+F1: 95.33934%
+Pre: 96.11231%
+Recall: 94.97029%
+
+[ Epoch 88 ]
+  - (Training) loss:  1.21778 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.04320%
+Pre: 97.08683%
+Recall: 93.34458%
+  - (Test) 
+Acc: 95.50444%
+F1: 95.35143%
+Pre: 96.57491%
+Recall: 94.44645%
+
+[ Epoch 89 ]
+  - (Training) loss:  2.82332 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.86604%
+Pre: 94.90225%
+Recall: 95.65948%
+  - (Test) 
+Acc: 95.29535%
+F1: 95.11582%
+Pre: 94.43528%
+Recall: 96.22616%
+
+[ Epoch 90 ]
+  - (Training) loss:  0.81141 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.28008%
+Pre: 98.45209%
+Recall: 92.85447%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.72814%
+Pre: 97.36956%
+Recall: 94.36221%
+
+[ Epoch 91 ]
+  - (Training) loss:  0.87914 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.42274%
+Pre: 96.22175%
+Recall: 95.20864%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.71115%
+Pre: 95.72666%
+Recall: 96.04984%
+
+[ Epoch 92 ]
+  - (Training) loss:  1.11759 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23640%
+Pre: 95.53425%
+Recall: 95.59937%
+  - (Test) 
+Acc: 95.79195%
+F1: 95.63188%
+Pre: 95.46396%
+Recall: 96.21276%
+
+[ Epoch 93 ]
+  - (Training) loss:  1.04879 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23640%
+Pre: 95.53425%
+Recall: 95.59937%
+  - (Test) 
+Acc: 95.76581%
+F1: 95.60556%
+Pre: 95.41219%
+Recall: 96.21276%
+
+[ Epoch 94 ]
+  - (Training) loss:  0.90544 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23640%
+Pre: 95.53425%
+Recall: 95.59937%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.57920%
+Pre: 95.36572%
+Recall: 96.21276%
+
+[ Epoch 95 ]
+  - (Training) loss:  0.82643 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.42824%
+Pre: 95.94751%
+Recall: 95.59937%
+  - (Test) 
+Acc: 95.81809%
+F1: 95.66254%
+Pre: 95.49264%
+Recall: 96.21276%
+
+[ Epoch 96 ]
+  - (Training) loss:  1.16433 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.61265%
+Pre: 96.25395%
+Recall: 95.59937%
+  - (Test) 
+Acc: 95.81809%
+F1: 95.65799%
+Pre: 95.68019%
+Recall: 96.00582%
+
+[ Epoch 97 ]
+  - (Training) loss:  1.22566 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.28386%
+Pre: 99.46720%
+Recall: 91.91023%
+  - (Test) 
+Acc: 95.11239%
+F1: 94.96209%
+Pre: 97.63893%
+Recall: 92.60406%
+
+[ Epoch 98 ]
+  - (Training) loss:  6.27132 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 93.58974%
+F1: 93.32563%
+Pre: 91.76569%
+Recall: 96.30218%
+  - (Test) 
+Acc: 94.45896%
+F1: 94.27044%
+Pre: 92.66511%
+Recall: 96.68026%
+
+[ Epoch 99 ]
+  - (Training) loss:  1.37481 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 93.40659%
+F1: 93.12417%
+Pre: 92.16115%
+Recall: 95.57226%
+  - (Test) 
+Acc: 94.61579%
+F1: 94.42474%
+Pre: 93.11978%
+Recall: 96.43888%
+
+[ Epoch 100 ]
+  - (Training) loss:  1.42634 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.63155%
+Pre: 97.98655%
+Recall: 93.65604%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.88492%
+Pre: 97.02555%
+Recall: 94.90553%
+
+[ Epoch 101 ]
+  - (Training) loss:  1.08720 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43019%
+Pre: 98.30845%
+Recall: 92.87460%
+  - (Test) 
+Acc: 95.81809%
+F1: 95.66928%
+Pre: 97.60448%
+Recall: 93.94021%
+
+[ Epoch 102 ]
+  - (Training) loss:  1.86400 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43578%
+Pre: 98.26775%
+Recall: 92.97228%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.58625%
+Pre: 97.24319%
+Recall: 94.19218%
+
+[ Epoch 103 ]
+  - (Training) loss:  1.11538 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.24844%
+Pre: 97.94215%
+Recall: 92.97228%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.71959%
+Pre: 97.08930%
+Recall: 94.59052%
+
+[ Epoch 104 ]
+  - (Training) loss:  0.79105 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.45436%
+Pre: 97.94215%
+Recall: 93.42311%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.77401%
+Pre: 97.08930%
+Recall: 94.70133%
+
+[ Epoch 105 ]
+  - (Training) loss:  0.91397 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.26598%
+Pre: 96.66882%
+Recall: 94.16698%
+  - (Test) 
+Acc: 95.76581%
+F1: 95.60897%
+Pre: 96.74063%
+Recall: 94.74502%
+
+[ Epoch 106 ]
+  - (Training) loss:  1.13279 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.04671%
+Pre: 94.52085%
+Recall: 96.52545%
+  - (Test) 
+Acc: 95.26921%
+F1: 95.08769%
+Pre: 94.47374%
+Recall: 96.23828%
+
+[ Epoch 107 ]
+  - (Training) loss:  1.10584 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.42211%
+Pre: 95.93937%
+Recall: 95.68390%
+  - (Test) 
+Acc: 95.45217%
+F1: 95.28185%
+Pre: 95.11164%
+Recall: 95.87626%
+
+[ Epoch 108 ]
+  - (Training) loss:  1.52297 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.42211%
+Pre: 95.93937%
+Recall: 95.68390%
+  - (Test) 
+Acc: 95.45217%
+F1: 95.28185%
+Pre: 95.11164%
+Recall: 95.87626%
+
+[ Epoch 109 ]
+  - (Training) loss:  0.84843 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.23211%
+Pre: 97.75410%
+Recall: 92.89031%
+  - (Test) 
+Acc: 95.76581%
+F1: 95.61405%
+Pre: 97.20215%
+Recall: 94.19859%
+
+[ Epoch 110 ]
+  - (Training) loss:  1.06078 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.50549%
+F1: 94.23031%
+Pre: 92.99049%
+Recall: 97.23650%
+  - (Test) 
+Acc: 94.43283%
+F1: 94.21856%
+Pre: 91.86867%
+Recall: 97.70228%
+
+[ Epoch 111 ]
+  - (Training) loss:  5.77030 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22096%
+Pre: 98.33130%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.89582%
+Pre: 97.23920%
+Recall: 94.81017%
+
+[ Epoch 112 ]
+  - (Training) loss:  1.15716 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.80590%
+Pre: 99.14160%
+Recall: 92.81449%
+  - (Test) 
+Acc: 95.97491%
+F1: 95.83790%
+Pre: 97.58995%
+Recall: 94.34399%
+
+[ Epoch 113 ]
+  - (Training) loss:  4.63126 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22432%
+Pre: 98.07754%
+Recall: 94.94842%
+  - (Test) 
+Acc: 96.15787%
+F1: 96.02781%
+Pre: 97.17479%
+Recall: 95.18558%
+
+[ Epoch 114 ]
+  - (Training) loss:  0.85664 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22649%
+Pre: 97.80128%
+Recall: 95.33914%
+  - (Test) 
+Acc: 95.94877%
+F1: 95.79774%
+Pre: 96.41731%
+Recall: 95.54491%
+
+[ Epoch 115 ]
+  - (Training) loss:  1.10713 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22649%
+Pre: 97.80128%
+Recall: 95.33914%
+  - (Test) 
+Acc: 95.94877%
+F1: 95.79744%
+Pre: 96.47638%
+Recall: 95.48734%
+
+[ Epoch 116 ]
+  - (Training) loss:  1.34593 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.03658%
+Pre: 97.76908%
+Recall: 94.94842%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.88876%
+Pre: 96.70155%
+Recall: 95.44087%
+
+[ Epoch 117 ]
+  - (Training) loss:  0.97188 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22649%
+Pre: 97.80128%
+Recall: 95.33914%
+  - (Test) 
+Acc: 96.05332%
+F1: 95.90378%
+Pre: 96.58231%
+Recall: 95.58956%
+
+[ Epoch 118 ]
+  - (Training) loss:  1.02875 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22096%
+Pre: 98.33130%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.86675%
+Pre: 97.39632%
+Recall: 94.59239%
+
+[ Epoch 119 ]
+  - (Training) loss:  1.08589 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22096%
+Pre: 98.33130%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.05332%
+F1: 95.92379%
+Pre: 97.30498%
+Recall: 94.83077%
+
+[ Epoch 120 ]
+  - (Training) loss:  0.84924 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22096%
+Pre: 98.33130%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.94990%
+Pre: 97.30806%
+Recall: 94.88305%
+
+[ Epoch 121 ]
+  - (Training) loss:  0.91237 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22432%
+Pre: 98.07754%
+Recall: 94.94842%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.94374%
+Pre: 96.92526%
+Recall: 95.23456%
+
+[ Epoch 122 ]
+  - (Training) loss:  1.41096 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.06261%
+Pre: 95.46374%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.58000%
+Pre: 95.45411%
+Recall: 96.09864%
+
+[ Epoch 123 ]
+  - (Training) loss:  1.06603 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.50549%
+F1: 94.29917%
+Pre: 93.94092%
+Recall: 95.65948%
+  - (Test) 
+Acc: 95.13853%
+F1: 94.96041%
+Pre: 93.53650%
+Recall: 97.12412%
+
+[ Epoch 124 ]
+  - (Training) loss:  1.36676 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.62517%
+Pre: 97.36397%
+Recall: 94.43748%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.72848%
+Pre: 96.73997%
+Recall: 94.95247%
+
+[ Epoch 125 ]
+  - (Training) loss:  1.23073 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43360%
+Pre: 95.87698%
+Recall: 95.68390%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.84704%
+Pre: 95.77087%
+Recall: 96.31787%
+
+[ Epoch 126 ]
+  - (Training) loss:  1.17349 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43553%
+Pre: 96.25804%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.53058%
+F1: 95.37345%
+Pre: 96.02875%
+Recall: 95.06840%
+
+[ Epoch 127 ]
+  - (Training) loss:  1.03313 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.05928%
+Pre: 95.50003%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.55672%
+F1: 95.40247%
+Pre: 95.92499%
+Recall: 95.23147%
+
+[ Epoch 128 ]
+  - (Training) loss:  0.94610 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.05928%
+Pre: 95.50003%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.53058%
+F1: 95.36795%
+Pre: 95.85355%
+Recall: 95.28723%
+
+[ Epoch 129 ]
+  - (Training) loss:  1.13326 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.05928%
+Pre: 95.50003%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.71354%
+F1: 95.55101%
+Pre: 95.65629%
+Recall: 95.85472%
+
+[ Epoch 130 ]
+  - (Training) loss:  0.98967 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.05928%
+Pre: 95.50003%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.71354%
+F1: 95.55101%
+Pre: 95.65629%
+Recall: 95.85472%
+
+[ Epoch 131 ]
+  - (Training) loss:  1.01664 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.05928%
+Pre: 95.50003%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.57822%
+Pre: 95.73232%
+Recall: 95.85472%
+
+[ Epoch 132 ]
+  - (Training) loss:  0.72985 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.87487%
+Pre: 95.15527%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.76581%
+F1: 95.59802%
+Pre: 95.40742%
+Recall: 96.21775%
+
+[ Epoch 133 ]
+  - (Training) loss:  0.89135 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.26327%
+Pre: 96.82338%
+Recall: 94.27862%
+  - (Test) 
+Acc: 95.63513%
+F1: 95.47954%
+Pre: 96.48368%
+Recall: 94.87581%
+
+[ Epoch 134 ]
+  - (Training) loss:  0.95186 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.87179%
+F1: 94.71123%
+Pre: 97.08744%
+Recall: 92.76901%
+  - (Test) 
+Acc: 95.53058%
+F1: 95.37703%
+Pre: 97.29781%
+Recall: 93.73747%
+
+[ Epoch 135 ]
+  - (Training) loss:  1.37238 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.52015%
+F1: 96.39949%
+Pre: 97.88047%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.66127%
+F1: 95.50470%
+Pre: 96.79765%
+Recall: 94.54939%
+
+[ Epoch 136 ]
+  - (Training) loss:  1.02435 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.85006%
+Pre: 94.93987%
+Recall: 95.65948%
+  - (Test) 
+Acc: 95.94877%
+F1: 95.78078%
+Pre: 95.30918%
+Recall: 96.76617%
+
+[ Epoch 137 ]
+  - (Training) loss:  0.98402 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.42927%
+Pre: 95.91866%
+Recall: 95.65948%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.57103%
+Pre: 95.58084%
+Recall: 95.98383%
+
+[ Epoch 138 ]
+  - (Training) loss:  1.31117 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.00439%
+Pre: 96.95576%
+Recall: 95.65948%
+  - (Test) 
+Acc: 95.79195%
+F1: 95.63035%
+Pre: 96.00269%
+Recall: 95.64675%
+
+[ Epoch 139 ]
+  - (Training) loss:  1.87705 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 92.85714%
+F1: 92.52024%
+Pre: 89.81144%
+Recall: 97.29232%
+  - (Test) 
+Acc: 92.52483%
+F1: 92.23388%
+Pre: 88.23918%
+Recall: 98.25601%
+
+[ Epoch 140 ]
+  - (Training) loss:  1.13678 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.21171%
+Pre: 96.83145%
+Recall: 96.05020%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.87653%
+Pre: 96.33059%
+Recall: 95.80935%
+
+[ Epoch 141 ]
+  - (Training) loss:  2.41900 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.27071%
+Pre: 96.16319%
+Recall: 95.03851%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.87701%
+Pre: 96.04752%
+Recall: 96.10812%
+
+[ Epoch 142 ]
+  - (Training) loss:  1.60943 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.44779%
+Pre: 95.51215%
+Recall: 96.13473%
+  - (Test) 
+Acc: 95.94877%
+F1: 95.79326%
+Pre: 95.47227%
+Recall: 96.48971%
+
+[ Epoch 143 ]
+  - (Training) loss:  0.93596 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.63963%
+Pre: 95.92541%
+Recall: 96.13473%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.87804%
+Pre: 95.64447%
+Recall: 96.42728%
+
+[ Epoch 144 ]
+  - (Training) loss:  1.15380 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82692%
+Pre: 96.51149%
+Recall: 95.68390%
+  - (Test) 
+Acc: 95.89650%
+F1: 95.74585%
+Pre: 95.86124%
+Recall: 95.97334%
+
+[ Epoch 145 ]
+  - (Training) loss:  0.91789 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.65339%
+Pre: 97.64178%
+Recall: 94.37630%
+  - (Test) 
+Acc: 95.63513%
+F1: 95.48248%
+Pre: 96.85225%
+Recall: 94.40096%
+
+[ Epoch 146 ]
+  - (Training) loss:  1.03761 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.63702%
+Pre: 96.47929%
+Recall: 95.29318%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.87401%
+Pre: 96.23934%
+Recall: 95.84323%
+
+[ Epoch 147 ]
+  - (Training) loss:  1.05916 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.63702%
+Pre: 96.47929%
+Recall: 95.29318%
+  - (Test) 
+Acc: 96.10559%
+F1: 95.95293%
+Pre: 96.25221%
+Recall: 95.99221%
+
+[ Epoch 148 ]
+  - (Training) loss:  0.88111 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.63702%
+Pre: 96.47929%
+Recall: 95.29318%
+  - (Test) 
+Acc: 96.10559%
+F1: 95.95293%
+Pre: 96.25221%
+Recall: 95.99221%
+
+[ Epoch 149 ]
+  - (Training) loss:  0.81181 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82692%
+Pre: 96.51149%
+Recall: 95.68390%
+  - (Test) 
+Acc: 96.10559%
+F1: 95.95293%
+Pre: 96.25221%
+Recall: 95.99221%
+
+[ Epoch 150 ]
+  - (Training) loss:  0.75963 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82692%
+Pre: 96.51149%
+Recall: 95.68390%
+  - (Test) 
+Acc: 96.15787%
+F1: 96.00603%
+Pre: 96.35597%
+Recall: 95.99221%
+
+[ Epoch 151 ]
+  - (Training) loss:  0.86117 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82692%
+Pre: 96.51149%
+Recall: 95.68390%
+  - (Test) 
+Acc: 96.18400%
+F1: 96.03219%
+Pre: 96.35597%
+Recall: 96.04448%
+
+[ Epoch 152 ]
+  - (Training) loss:  0.98616 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82692%
+Pre: 96.51149%
+Recall: 95.68390%
+  - (Test) 
+Acc: 96.15787%
+F1: 96.00583%
+Pre: 96.26548%
+Recall: 96.10422%
+
+[ Epoch 153 ]
+  - (Training) loss:  0.83695 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82692%
+Pre: 96.51149%
+Recall: 95.68390%
+  - (Test) 
+Acc: 96.15787%
+F1: 96.00583%
+Pre: 96.26548%
+Recall: 96.10422%
+
+[ Epoch 154 ]
+  - (Training) loss:  6.15119 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.63513%
+Pre: 96.86033%
+Recall: 94.94842%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.84687%
+Pre: 96.42102%
+Recall: 95.57533%
+
+[ Epoch 155 ]
+  - (Training) loss:  0.96105 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.62615%
+Pre: 96.61345%
+Recall: 95.33914%
+  - (Test) 
+Acc: 95.97491%
+F1: 95.81832%
+Pre: 96.13433%
+Recall: 95.81736%
+
+[ Epoch 156 ]
+  - (Training) loss:  1.06143 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.59794%
+Pre: 95.93506%
+Recall: 96.07462%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.83748%
+Pre: 95.86303%
+Recall: 96.16282%
+
+[ Epoch 157 ]
+  - (Training) loss:  0.75311 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.41354%
+Pre: 95.59030%
+Recall: 96.07462%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.86479%
+Pre: 95.69938%
+Recall: 96.44446%
+
+[ Epoch 158 ]
+  - (Training) loss:  1.12927 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.60589%
+Pre: 95.59030%
+Recall: 96.52545%
+  - (Test) 
+Acc: 96.00105%
+F1: 95.83681%
+Pre: 95.69694%
+Recall: 96.38471%
+
+[ Epoch 159 ]
+  - (Training) loss:  1.08366 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.41354%
+Pre: 95.59030%
+Recall: 96.07462%
+  - (Test) 
+Acc: 95.97491%
+F1: 95.80976%
+Pre: 95.76384%
+Recall: 96.23873%
+
+[ Epoch 160 ]
+  - (Training) loss:  0.97517 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.41354%
+Pre: 95.59030%
+Recall: 96.07462%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.75295%
+Pre: 95.79073%
+Recall: 96.12394%
+
+[ Epoch 161 ]
+  - (Training) loss:  1.06264 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.26537%
+Pre: 97.73480%
+Recall: 93.56441%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.58321%
+Pre: 96.69152%
+Recall: 94.75390%
+
+[ Epoch 162 ]
+  - (Training) loss:  1.05831 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.13919%
+F1: 93.86757%
+Pre: 91.94819%
+Recall: 97.51559%
+  - (Test) 
+Acc: 94.45896%
+F1: 94.24094%
+Pre: 91.78654%
+Recall: 97.79832%
+
+[ Epoch 163 ]
+  - (Training) loss:  2.74112 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 94.68864%
+F1: 94.55796%
+Pre: 98.81970%
+Recall: 91.16892%
+  - (Test) 
+Acc: 95.16466%
+F1: 94.99930%
+Pre: 97.28665%
+Recall: 92.99656%
+
+[ Epoch 164 ]
+  - (Training) loss:  2.56167 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.24720%
+Pre: 96.69329%
+Recall: 94.58737%
+  - (Test) 
+Acc: 96.13173%
+F1: 95.98221%
+Pre: 96.68616%
+Recall: 95.61415%
+
+[ Epoch 165 ]
+  - (Training) loss:  1.24073 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.42125%
+F1: 95.24669%
+Pre: 97.10655%
+Recall: 94.13654%
+  - (Test) 
+Acc: 96.23628%
+F1: 96.08484%
+Pre: 96.63692%
+Recall: 95.86330%
+
+[ Epoch 166 ]
+  - (Training) loss:  1.05447 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.83292%
+Pre: 97.71565%
+Recall: 94.50284%
+  - (Test) 
+Acc: 96.28855%
+F1: 96.13560%
+Pre: 96.73301%
+Recall: 95.87385%
+
+[ Epoch 167 ]
+  - (Training) loss:  0.85243 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.80272%
+Pre: 96.43926%
+Recall: 95.96823%
+  - (Test) 
+Acc: 96.52378%
+F1: 96.38372%
+Pre: 96.33645%
+Recall: 96.80704%
+
+[ Epoch 168 ]
+  - (Training) loss:  1.18282 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.01185%
+Pre: 96.76246%
+Recall: 96.13473%
+  - (Test) 
+Acc: 96.36696%
+F1: 96.22450%
+Pre: 96.71071%
+Recall: 96.05182%
+
+[ Epoch 169 ]
+  - (Training) loss:  2.34045 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.05495%
+F1: 94.81801%
+Pre: 93.74860%
+Recall: 97.21495%
+  - (Test) 
+Acc: 95.29535%
+F1: 95.11697%
+Pre: 93.74422%
+Recall: 97.16499%
+
+[ Epoch 170 ]
+  - (Training) loss:  1.64499 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.05896%
+Pre: 95.33459%
+Recall: 95.83122%
+  - (Test) 
+Acc: 95.97491%
+F1: 95.80758%
+Pre: 95.38518%
+Recall: 96.65125%
+
+[ Epoch 171 ]
+  - (Training) loss:  1.02563 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 94.87179%
+F1: 94.69038%
+Pre: 94.67337%
+Recall: 95.83122%
+  - (Test) 
+Acc: 95.89650%
+F1: 95.72876%
+Pre: 94.97780%
+Recall: 97.01638%
+
+[ Epoch 172 ]
+  - (Training) loss:  1.80589 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43521%
+Pre: 95.36679%
+Recall: 96.50103%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.87032%
+Pre: 95.63181%
+Recall: 96.51419%
+
+[ Epoch 173 ]
+  - (Training) loss:  0.87637 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43736%
+Pre: 95.67324%
+Recall: 96.13473%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.76482%
+Pre: 95.39974%
+Recall: 96.51639%
+
+[ Epoch 174 ]
+  - (Training) loss:  0.77085 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.62395%
+Pre: 95.70115%
+Recall: 96.52545%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.71020%
+Pre: 95.31418%
+Recall: 96.51639%
+
+[ Epoch 175 ]
+  - (Training) loss:  0.80462 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.44081%
+Pre: 96.22032%
+Recall: 95.39925%
+  - (Test) 
+Acc: 95.94877%
+F1: 95.79276%
+Pre: 96.47743%
+Recall: 95.47314%
+
+[ Epoch 176 ]
+  - (Training) loss:  1.61819 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 95.23810%
+F1: 95.06476%
+Pre: 95.89711%
+Recall: 94.94842%
+  - (Test) 
+Acc: 95.32148%
+F1: 95.14131%
+Pre: 95.63086%
+Recall: 95.08097%
+
+[ Epoch 177 ]
+  - (Training) loss:  2.47736 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.78755%
+F1: 95.61844%
+Pre: 96.55033%
+Recall: 95.29318%
+  - (Test) 
+Acc: 95.89650%
+F1: 95.74238%
+Pre: 96.51629%
+Recall: 95.27590%
+
+[ Epoch 178 ]
+  - (Training) loss:  1.15156 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.23616%
+Pre: 98.45340%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.05332%
+F1: 95.91050%
+Pre: 97.19655%
+Recall: 94.86088%
+
+[ Epoch 179 ]
+  - (Training) loss:  1.10025 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.52015%
+F1: 96.41260%
+Pre: 97.98655%
+Recall: 95.37483%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.76879%
+Pre: 96.77648%
+Recall: 95.07607%
+
+[ Epoch 180 ]
+  - (Training) loss:  0.84757 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22025%
+Pre: 97.98655%
+Recall: 94.92400%
+  - (Test) 
+Acc: 95.89650%
+F1: 95.74132%
+Pre: 96.92504%
+Recall: 94.87407%
+
+[ Epoch 181 ]
+  - (Training) loss:  1.16864 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22025%
+Pre: 97.98655%
+Recall: 94.92400%
+  - (Test) 
+Acc: 95.94877%
+F1: 95.79855%
+Pre: 96.89767%
+Recall: 94.98779%
+
+[ Epoch 182 ]
+  - (Training) loss:  1.20318 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.03584%
+Pre: 97.64179%
+Recall: 94.92400%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.70843%
+Pre: 96.78582%
+Recall: 94.95991%
+
+[ Epoch 183 ]
+  - (Training) loss:  1.06641 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.03584%
+Pre: 97.64179%
+Recall: 94.92400%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.76226%
+Pre: 96.72899%
+Recall: 95.10769%
+
+[ Epoch 184 ]
+  - (Training) loss:  0.69601 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.52015%
+F1: 96.42263%
+Pre: 97.67936%
+Recall: 95.76555%
+  - (Test) 
+Acc: 95.89650%
+F1: 95.73712%
+Pre: 96.44242%
+Recall: 95.37477%
+
+[ Epoch 185 ]
+  - (Training) loss:  0.87368 %, elapse: 0.148 min
+  - (Validation) 
+Acc: 96.52015%
+F1: 96.42263%
+Pre: 97.67936%
+Recall: 95.76555%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.76559%
+Pre: 96.60440%
+Recall: 95.28575%
+
+[ Epoch 186 ]
+  - (Training) loss:  1.00701 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22963%
+Pre: 97.96500%
+Recall: 95.00853%
+  - (Test) 
+Acc: 95.73968%
+F1: 95.58069%
+Pre: 96.60692%
+Recall: 94.86525%
+
+[ Epoch 187 ]
+  - (Training) loss:  1.03266 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.23069%
+Pre: 97.20162%
+Recall: 95.78997%
+  - (Test) 
+Acc: 95.89650%
+F1: 95.73417%
+Pre: 96.48428%
+Recall: 95.32998%
+
+[ Epoch 188 ]
+  - (Training) loss:  1.08493 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.04078%
+Pre: 97.16941%
+Recall: 95.39925%
+  - (Test) 
+Acc: 95.87036%
+F1: 95.71256%
+Pre: 96.76201%
+Recall: 94.98335%
+
+[ Epoch 189 ]
+  - (Training) loss:  1.04055 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.33700%
+F1: 96.22375%
+Pre: 97.19096%
+Recall: 95.76555%
+  - (Test) 
+Acc: 95.84422%
+F1: 95.68696%
+Pre: 96.61385%
+Recall: 95.09707%
+
+[ Epoch 190 ]
+  - (Training) loss:  1.06632 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.82764%
+Pre: 96.62166%
+Recall: 95.70544%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.76294%
+Pre: 96.52087%
+Recall: 95.34337%
+
+[ Epoch 191 ]
+  - (Training) loss:  1.16396 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.43477%
+Pre: 95.64441%
+Recall: 96.05020%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.76242%
+Pre: 95.62164%
+Recall: 96.29514%
+
+[ Epoch 192 ]
+  - (Training) loss:  3.67143 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.47058%
+Pre: 97.96500%
+Recall: 93.42311%
+  - (Test) 
+Acc: 95.68740%
+F1: 95.53652%
+Pre: 97.74803%
+Recall: 93.54550%
+
+[ Epoch 193 ]
+  - (Training) loss:  2.19995 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.60440%
+F1: 95.42524%
+Pre: 95.79223%
+Recall: 96.00895%
+  - (Test) 
+Acc: 95.58285%
+F1: 95.42327%
+Pre: 96.08825%
+Recall: 95.21587%
+
+[ Epoch 194 ]
+  - (Training) loss:  1.11856 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.01928%
+Pre: 96.62166%
+Recall: 96.13473%
+  - (Test) 
+Acc: 96.05332%
+F1: 95.89826%
+Pre: 96.63233%
+Recall: 95.47983%
+
+[ Epoch 195 ]
+  - (Training) loss:  0.76453 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.81335%
+Pre: 96.32862%
+Recall: 96.13473%
+  - (Test) 
+Acc: 96.02718%
+F1: 95.87290%
+Pre: 96.18589%
+Recall: 95.84321%
+
+[ Epoch 196 ]
+  - (Training) loss:  1.25122 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.03728%
+Pre: 97.96500%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.92907%
+Pre: 96.80620%
+Recall: 95.37362%
+
+[ Epoch 197 ]
+  - (Training) loss:  1.06879 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.83135%
+Pre: 97.67196%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.07946%
+F1: 95.93018%
+Pre: 96.75225%
+Recall: 95.41764%
+
+[ Epoch 198 ]
+  - (Training) loss:  1.08208 %, elapse: 0.146 min
+  - (Validation) 
+Acc: 96.15385%
+F1: 96.03728%
+Pre: 97.96500%
+Recall: 94.55770%
+  - (Test) 
+Acc: 96.10559%
+F1: 95.96911%
+Pre: 97.05926%
+Recall: 95.14914%
+
+[ Epoch 199 ]
+  - (Training) loss:  1.02642 %, elapse: 0.147 min
+  - (Validation) 
+Acc: 95.97070%
+F1: 95.83839%
+Pre: 97.47660%
+Recall: 94.55770%
+  - (Test) 
+Acc: 95.92263%
+F1: 95.77901%
+Pre: 97.21847%
+Recall: 94.59339%
+ - (Finished!!) 
+ Best scores: 
+Acc: 97.72608%
+F1: 97.64755%
+Pre: 98.37680%
+Recall: 97.06314%
